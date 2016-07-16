@@ -11,3 +11,4 @@ run_analysis.R does the following:
   8. Cleans variable names & labels data with descriptive names
   9. Summarises each variable by activity & subject ID
   10. Creates "tidydata.txt" (tab delimited) from the summarised data
+CodeBook.md states list of variables and name abbreviation meanings
