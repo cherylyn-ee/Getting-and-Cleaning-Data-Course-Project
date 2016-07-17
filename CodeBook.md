@@ -6,7 +6,9 @@ Names abbreviation & meaning:
 3. Gyro: Gyroscope
 4. Mag: Magnitude
 
-Variable names & definition:
+tidydata.txt is summarised by subjectID and activity
+
+Variable names:
 
 1. subjectID
 2. activity
