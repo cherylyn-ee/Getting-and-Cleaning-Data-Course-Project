@@ -1,4 +1,11 @@
 # Getting-and-Cleaning-Data-Course-Project
+# Human Activity Recognition Using Smartphones Data Set
+Data has been obtained from path:
+https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
+
+More information for the data set can be obtained from path:
+http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
+
 Run run_analysis.R to obtain tidydata.txt which summarises mean and standard deviation measurements by subject code & activity type.
 run_analysis.R does the following:
   1. Creates a folder (Get&Clean) to store file 
